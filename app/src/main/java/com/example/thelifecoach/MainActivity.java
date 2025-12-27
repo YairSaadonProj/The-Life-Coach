@@ -48,8 +48,7 @@ public class MainActivity extends AppCompatActivity {
 
         });
 
-
-
+        // comment to delete
 
         int hour = java.util.Calendar.getInstance().get(java.util.Calendar.HOUR_OF_DAY);
         if (hour < 12) {
